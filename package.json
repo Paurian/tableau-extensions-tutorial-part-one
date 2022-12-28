@@ -1,0 +1,12 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Paurian/tableau-extensions-tutorial-part-one",
+  "author": "Bri Gipson <bgipson@ent.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3"
+  }
+}
